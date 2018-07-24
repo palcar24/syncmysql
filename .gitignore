@@ -1,3 +1,6 @@
+error.log
+backLDB/*
+backRDB/*
 # Object file
 *.o
 
