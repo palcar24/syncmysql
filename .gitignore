@@ -1,6 +1,7 @@
 error.log
 backLDB/*
 backRDB/*
+config
 # Object file
 *.o
 
